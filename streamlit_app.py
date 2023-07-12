@@ -1,7 +1,9 @@
 import streamlit
 
-streamlit.title('This is my first Git and Streamlit')
+streamlit.title('My parents New healthy Diner')
 streamlit.header('Breakfast Menu')
-streamlit.text('test1 and test2')
-streamlit.text('test3 and test4')
-streamlit.text('test5 and test6')
+streamlit.text(' 🥣 Omega 3 & Blueberry Oatmeal')
+streamlit.text('🥗Kale, Spinach & Rocket Smoothie')
+streamlit.text('🐔Hard-Boiled Free-Range Egg')
+streamlit.text('🥑🍞Avocado Toast')
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
